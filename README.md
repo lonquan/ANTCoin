@@ -1,5 +1,4 @@
-# ant_Block_chain
-#ANTCoin
+# ANTCoin
 ```
 hello, world!
 ```
